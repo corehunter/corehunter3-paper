@@ -1,2 +1,2 @@
-# corehunter3-paper
+# Core Hunter 3
 Supplemental code for Core Hunter 3 paper
